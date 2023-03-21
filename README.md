@@ -11,3 +11,6 @@ The project is a quantitative time series analysis in cryptocurrency price live 
 The code can be accessed via `Binance-Trade-Bot.ipynb`. Funtionality includes live data fecthing from Binance API, model training and live prediction, and backtesting on historical K-line data. 
 
 # Requirements:
+Before running the jupyter notebook, run the following:
+`pip install python-binance
+pip install keras_tuner`
