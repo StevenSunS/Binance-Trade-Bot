@@ -8,3 +8,6 @@ The project is a quantitative time series analysis in cryptocurrency price live 
 - Provided scientific solutions for current business dilemma and showcased model's scalability into future strategic planning
 
 # Code Structure:
+The code can be accessed via `Binance-Trade-Bot.ipynb`. Funtionality includes live data fecthing from Binance API, model training and live prediction, and backtesting on historical K-line data. 
+
+# Requirements:
