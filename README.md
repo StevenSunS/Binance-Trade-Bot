@@ -9,7 +9,7 @@ The project contribution is listed as follows:
 - Constructed utility optimization model based on queuing theory and integrated into FedEx's delivery network
 - Provided scientific solutions for current business dilemma and showcased model's scalability into future strategic planning
 
-![alt text][output.png]
+![alt text](https://github.com/StevenSunS/Binance-Trade-Bot/blob/main/output.png)]
 
 # Code Structure:
 The code can be accessed via `Binance-Trade-Bot.ipynb`. Funtionality includes live data fecthing from Binance API, model training and live prediction, and backtesting on historical K-line data. 
