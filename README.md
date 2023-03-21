@@ -12,5 +12,6 @@ The code can be accessed via `Binance-Trade-Bot.ipynb`. Funtionality includes li
 
 # Requirements:
 Before running the jupyter notebook, run the following:
-`pip install python-binance
-pip install keras_tuner`
+`pip install python-binance keras_tuner keras tensorflow sklearn`
+If the notebook can be run in Google Colab environment.
+
